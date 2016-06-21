@@ -11,7 +11,7 @@ A React app to search for medicines and patients
 - Assign medicine by clicking them in the search result
 
 Click around, do stuff. Hopefully most of it works (in Chrome)
-Search the patients you ned before you add medicines
+Search the patients you need before you add medicines
 
 ## Installation
 
