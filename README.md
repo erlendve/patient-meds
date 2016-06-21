@@ -1,8 +1,6 @@
 # patient-meds
 A React app to search for medicines and patients
 
-
-
 ## Features
 - Search FDA for medicines
 - Edit/Delete of Patients
